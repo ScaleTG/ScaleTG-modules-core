@@ -1,5 +1,8 @@
 """ Config File
 This config file contains the required configuration for this bot to work.
+
+DO NOT TRY TO EDIT THIS FILE FROM MAIN REPO
+USE https://github.com/ScaleTG-modules-core instead
 """
 
 # Core 
